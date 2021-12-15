@@ -1,2 +1,3 @@
-def echo(a):
+def echo():
     return "" * 5
+
